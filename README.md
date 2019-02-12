@@ -1,7 +1,7 @@
 # READCHINA Corporate Identity
 The corporate identity files for ERC READCHINA, including the logos, symbol and other design elements to be used on posters, presentations and online.  
 
-REACHINA LOGO
+READCHINA LOGOS
 
 There are three files that make up our logo: full (symbol + wordmark + description), semi-full (symbol + wordmark) and symbol (just the symbol). 
 

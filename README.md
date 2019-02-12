@@ -9,9 +9,13 @@ As a rule, we use the semi-full logo for most wide-screen and/or big print cases
 
 Each of the three comes in two versions: A is on white background, B is on transparent background. We use A when the background on which the chosen logo will be placed is black or multicolored (e.g. a photo or multucolored graphic). We use B when the background on which the chosen logo will be placed is white or colored but the logo is still clearly readable without an added white background around it. As a rule, the logo should be placed at the eges and be clear and readable. 
 
-READCHINA CSS & CCOLOR SCHEME
+READCHINA CSS & COLOR SCHEME
 
 The CSS and color scheme to be used throughout our presentations and online will be added to this repo soon. 
+
+READCHINA FONTS
+
+The font family and types to be used throughout our presentations and online will be added to this repo soon.  
 
 ERC LOGO
 

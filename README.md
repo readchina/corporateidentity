@@ -3,7 +3,7 @@ The corporate identity files for ERC READCHINA, including the logos, symbol and 
 
 READCHINA LOGOS
 
-There are three files that make up our logo: full (symbol + wordmark + description), semi-full (symbol + wordmark) and symbol (just the symbol). 
+There are three .ai files that make up our logo: full (symbol + wordmark + description), semi-full (symbol + wordmark) and symbol (just the symbol). The logo was designed in Adobe Illustrator CC 2015 and all changes to it should only be made using this software or its newer versions. 
 
 As a rule, we use the semi-full logo for most wide-screen and/or big print cases while the symbol can be used as an icon, watermark or simple image. The full logo is reserved for special sitautions (and we might discard it altogether eventually). 
 
@@ -19,4 +19,4 @@ The font family and types to be used throughout our presentations and online wil
 
 ERC LOGO
 
-The official ERC logo can be found here: https://erc.europa.eu/managing-your-project/communicating-your-research. We are including it in this repo to make future design work smother. 
+The official ERC logo can be found here: https://erc.europa.eu/managing-your-project/communicating-your-research. We are including the four versions of it in this repo to make future design work smother. 

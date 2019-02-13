@@ -1,0 +1,29 @@
+{
+  "name": "readchina-design",
+  "version": "1.0.0",
+  "description": "The corporate identity files for the ERC READCHINA project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/readchina/corporateidentity.git"
+  },
+  "keywords": [
+    "ERC",
+    "design",
+    "readchina",
+    "sass",
+    "css",
+    "stylesheet"
+  ],
+  "author": "Damian Mandzunowski, Duncan Paterson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/readchina/corporateidentity/issues"
+  },
+  "homepage": "https://github.com/readchina/corporateidentity#readme",
+  "devDependencies": {
+    "sass": "^1.17.0"
+  }
+}
